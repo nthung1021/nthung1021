@@ -6,9 +6,9 @@ You can call me Charlie Nguyen, l like this name :)
 
 I am a student studying at a university in Ho Chi Minh City, Vietnam, currently learning about Software Engineering. I like to develop software applications (web, mobile or desktop), I also like to develop a personal project about game, if I have free time :))
 
-* 🌍  I'm living in Ho Chi Minh City , Vietnam
-* 🚀  I'm not currently on any project so far, but I am trying to practise with small exercises
-* 🧠  I'm learning Javascript (for backend)
+* 🌍  I'm living in Ho Chi Minh City, Vietnam
+* 🚀  I'm currently working on a large project about web application.
+* 🧠  I'm learning Java (Sprint Boot).
 * ⚡  I also like playing games, especially with my friends, but not much. I think it is a good way to know more about developing games, since I can learn about the idea and design to make a great games.
 
 ### Skills
